@@ -29,7 +29,6 @@ void input() {                          // procedure untuk input
 }
 
 
-
 int main()
 {
     std::cout << "Hello World!\n";
